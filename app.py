@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 st.title("🎓 Smart Attendance System")
-st.write("Face Recognition Attendance System using Python, OpenCV, SQLite, and Streamlit.")
+st.write("Face Recognition Attendance System")
 
 menu = st.sidebar.selectbox(
     "Choose Page",
